@@ -2,7 +2,7 @@
 
 A powerful full-stack MERN application that helps users with career development using AI (Gemini API + JSsearch API).
 
-## 🚀 New Features (V2)
+## 🚀  Features
 
 ### 1. **Job Search - Enhanced with Filters**
 - Integration with **JSsearch RapidAPI** for real job listings
